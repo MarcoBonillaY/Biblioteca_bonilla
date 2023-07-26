@@ -1,4 +1,5 @@
 <?php
+//Hola
 require_once("Config/Config.php");
 require_once("Helpers/Helpers.php");
 $url = isset($_GET['url']) ? $_GET['url'] : "Home/home";
