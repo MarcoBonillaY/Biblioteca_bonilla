@@ -116,7 +116,7 @@
                     </div>
                 </div>
                 <div class="sb-sidenav-footer bg-primary">
-                    <div class="small">Sígueme en : </div>
+                    <div class="small">Sígueme en: </div>
                     <a href="https://www.facebook.com/profile.php?id=100072379307819" class="text-white"><i class="fab fa-facebook-square"></i> Facebook</a>
                     <a href="https://www.instagram.com/yepez_said/" class="text-danger"><i class="fab fa-instagram-square"></i> Instagram</a>
                     <!-- Bootstrap JS -->
